@@ -1,0 +1,118 @@
+{
+    "source": "trajectory_schematic",
+    "timestamp": 1544462322302.837,
+    "content": {
+        "type": "Feature",
+        "properties": {
+            "rake": "0;0;0;948004233490;948004233136;0;0;0",
+            "train_id": 140675414955456,
+            "original_train_number": null,
+            "line": {
+                "color": "#00a76c",
+                "name": "S6",
+                "id": 6,
+                "text_color": "#ffffff"
+            },
+            "time_since_update": 0,
+            "calls_stack": [
+                "MEG",
+                "MGRS",
+                "MGB",
+                "MKO H",
+                "MEGL",
+                "MZO",
+                "MBDH",
+                "MVS",
+                "MHR",
+                "MGDF",
+                "MTR",
+                "MBAL",
+                "MLEU",
+                "MOP",
+                "MRP",
+                "MIT",
+                "MMP",
+                "MKA",
+                "MHT",
+                "MHAB",
+                "MMDN",
+                "MMHG",
+                "ML",
+                "MP",
+                "MWKR",
+                "MLCH",
+                "MGFL",
+                "MPL",
+                "MSD",
+                "MGT",
+                "MSNO",
+                "MST",
+                "MPH",
+                "MFA",
+                "MTZ"
+            ],
+            "time_intervals": [
+                [
+                    1544462322291.2852,
+                    0,
+                    3.141592653589793
+                ],
+                [
+                    1544462331666.2852,
+                    0.25,
+                    3.141592653589793
+                ],
+                [
+                    1544462341041.2852,
+                    0.5,
+                    3.141592653589793
+                ],
+                [
+                    1544462350416.2852,
+                    0.75,
+                    3.141592653589793
+                ],
+                [
+                    1544462359791.2852,
+                    1,
+                    3.141592653589793
+                ],
+                [
+                    253402300800000,
+                    1,
+                    3.141592653589793
+                ]
+            ],
+            "stop_point_ds100": "MMDN",
+            "state": "DRIVING",
+            "transmitting_vehicle": "948004233136",
+            "raw_coordinates": [
+                11.536955206344174,
+                48.14281557147796
+            ],
+            "event_timestamp": 1544462320000,
+            "vehicle_number": "313",
+            "event": "FA",
+            "delay": 2.244622,
+            "position_correction": 3,
+            "timestamp": 1544462322302.017,
+            "train_number": 6690,
+            "ride_state": "X",
+            "aimed_time_offset": 187
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    1266216.6094884793,
+                    6126560.0000000065
+                ],
+                [
+                    1256366.1679600538,
+                    6126560.0000000065
+                ]
+            ]
+        }
+    },
+    "client_reference": null
+}

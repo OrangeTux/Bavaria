@@ -1,0 +1,36 @@
+{
+    "source": "timetable_8004723",
+    "timestamp": 1544614482016.3838,
+    "content": {
+        "at_station_ds100": null,
+        "train_type": null,
+        "platform": "1",
+        "ris_estimated_time": null,
+        "to": [
+            "Erding"
+        ],
+        "new_to": null,
+        "fzo_estimated_time": null,
+        "state": null,
+        "ris_aimed_time": 1544621400000,
+        "time": 1544621400000,
+        "min_arrival_time": null,
+        "next_stoppoints": null,
+        "updated_at": 1544612926674.681,
+        "line": {
+            "color": "#8bbd4d",
+            "name": "S2",
+            "id": 2,
+            "text_color": "#ffffff"
+        },
+        "created_at": 1544605326513.1619,
+        "formation": null,
+        "no_stop_between": null,
+        "train_id": 140675419577032,
+        "has_fzo": false,
+        "call_id": 27099904,
+        "train_number": 6267,
+        "no_stop_till": null
+    },
+    "client_reference": null
+}

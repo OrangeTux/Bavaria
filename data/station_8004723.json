@@ -1,0 +1,19 @@
+{
+    "source": "station 8004723",
+    "timestamp": 1544614481991.303,
+    "content": {
+        "type": "Feature",
+        "properties": {
+            "uic": 8004723,
+            "name": "Ottenhofen(Oberbay)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1322407.0891372531,
+                6143221.586618625
+            ]
+        }
+    },
+    "client_reference": null
+}

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "bavaria"
+version = "0.1.0"
+description = "API wrapper for Munich's unoffical S-Bahn websocket API."
+authors = ["Auke Willem Oosterhoff <auke@orangetux.nl>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+websockets = "^7.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.0"
+pytest-cov = "^2.6"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

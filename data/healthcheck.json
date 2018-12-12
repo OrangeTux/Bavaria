@@ -1,0 +1,9 @@
+{
+    "source": "healthcheck",
+    "timestamp": 1544614482001.864,
+    "content": {
+        "healthy": true,
+        "service": "tralis_newsticker"
+    },
+    "client_reference": null
+}
